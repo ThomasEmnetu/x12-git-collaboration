@@ -3,3 +3,5 @@
 * Add 1 (or more!) collaborators
 * Both people make changes to README.md
 * Both people try to push up to GitHub
+
+* Add 1 (or more!) collaborators
